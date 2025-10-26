@@ -1,8 +1,12 @@
-! https://mail.yandex.ru
+! Title: Small cosmetic filter RU
+! Homepage: https://github.com/Derpachi/ru_small_filter/
+! Licence: https://easylist.to/pages/licence.html
+
+https://mail.yandex.ru
 mail.yandex.ru##div._BottomIconRoot_dxcv6_1:nth-of-type(1)
 mail.yandex.ru##.qa-LeftColumn-Footer.RedesignedFooter-m__footerContainer--neeYi.theme-overrides-m__root--vNFy\+
 
-! https://www.ozon.ru
+https://www.ozon.ru
 www.ozon.ru##div.l2d_11:nth-of-type(3)
 www.ozon.ru##div.l2d_11:nth-of-type(7)
 www.ozon.ru##.uw_m8a.uw_ma9.uw_m6a
